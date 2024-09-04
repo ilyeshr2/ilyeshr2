@@ -11,7 +11,7 @@ I'm Ilies, a computer science student from Canada. Here's some info about me!
   *Back-end development on the Release Engineering team.*  
   _Sidi Bel Abbes, Algeria. Spring 2022_
 
-- **Computer Network Engineer Algérie Télécom**  
+- **Computer Network Engineer Intern Algérie Télécom**  
   *Network engineering on the cybersecurity team.*  
   _Sidi Bel Abbes, Algeria. Spring 2021_
 
