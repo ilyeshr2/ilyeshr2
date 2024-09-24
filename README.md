@@ -7,13 +7,13 @@ I'm Ilies, a computer science student from Canada. Here's some info about me!
   *Object-Oriented Programming II (Java).*  
   _Montreal, Quebec. Spring 2024_
 
-- **Software Engineer Intern at Algérie Télécom**  
+- **Software Engineer Intern at Agence de publicite badr**  
   *Back-end development on the Release Engineering team.*  
   _Sidi Bel Abbes, Algeria. Spring 2022_
 
-- **Computer Network Engineer Intern Algérie Télécom**  
+- **Co-Founder/IT Systems Lead at bdc HR**  
   *Network engineering on the cybersecurity team.*  
-  _Sidi Bel Abbes, Algeria. Spring 2021_
+  _Sidi Bel Abbes, Algeria. Spring 2021_ Present
 
 ## 🌱 Interests:
 
