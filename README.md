@@ -7,7 +7,7 @@ I'm Ilies, a computer science student from Canada. Here's some info about me!
   *Object-Oriented Programming II (Java).*  
   _Montreal, Quebec. Spring 2024_
 
-- **Software Engineer Intern at Agence de publicite badr**  
+- **Software Engineer Intern at Alg´erie T´el´ecom**  
   *Back-end development on the Release Engineering team.*  
   _Sidi Bel Abbes, Algeria. Spring 2022_
 
