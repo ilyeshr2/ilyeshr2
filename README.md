@@ -18,7 +18,7 @@ I'm Ilies, a computer science student from Canada. Here's some info about me!
 ## 🌱 Interests:
 
 - Building products.
-- Trading the Nasdaq.
+- Trading the Nasdaq (i lost so much money dude 😭😭😭😭).
 
 
 <!---
