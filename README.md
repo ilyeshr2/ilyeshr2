@@ -3,6 +3,11 @@ I'm Ilies, a computer science student from Canada. Here's some info about me!
 
 ## ⚡ Work Experience:
 
+- **IoT Intern at Solution Intelligente NexFlux **  
+  *IoT engineering on the geolocation team.*  
+  _Montreal, Quebec. Spring 2025_
+
+
 - **Teaching Assistant at Grasset technical institute**  
   *Object-Oriented Programming II (Java).*  
   _Montreal, Quebec. Spring 2024_
@@ -11,14 +16,10 @@ I'm Ilies, a computer science student from Canada. Here's some info about me!
   *Back-end development on the Release Engineering team.*  
   _Sidi Bel Abbes, Algeria. Spring 2022_
 
-- **Co-Founder/IT Systems Lead at bdc**  
-  *Network engineering on the cybersecurity team.*  
-  _Sidi Bel Abbes, Algeria. Spring 2021_ Present
-
 ## 🌱 Interests:
 
 - Building products.
-- Trading the Nasdaq (i lost so much money dude 😭😭😭😭).
+- Trading the Nasdaq.
 
 
 <!---
