@@ -3,7 +3,7 @@ I'm Ilies, a computer science student from Canada. Here's some info about me!
 
 ## ⚡ Work Experience:
 
-- **IoT Intern at Solution Intelligente NexFlux **  
+- **IoT Intern at Solution Intelligente NexFlux**  
   *IoT engineering on the geolocation team.*  
   _Montreal, Quebec. Spring 2025_
 
